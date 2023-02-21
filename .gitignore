@@ -1,0 +1,8 @@
+venv
+test
+.idea
+telegram/.env
+src/__pycache__/
+telegram/__pycache__/
+telegram/handlers/__pycache__/
+telegram/keyboards/__pycache__/
